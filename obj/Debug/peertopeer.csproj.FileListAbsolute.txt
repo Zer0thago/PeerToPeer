@@ -1,0 +1,8 @@
+C:\Users\stefa\source\repos\peertopeer\bin\Debug\peertopeer.exe.config
+C:\Users\stefa\source\repos\peertopeer\bin\Debug\peertopeer.exe
+C:\Users\stefa\source\repos\peertopeer\bin\Debug\peertopeer.pdb
+C:\Users\stefa\source\repos\peertopeer\obj\Debug\peertopeer.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\peertopeer\obj\Debug\peertopeer.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\source\repos\peertopeer\obj\Debug\peertopeer.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\peertopeer\obj\Debug\peertopeer.exe
+C:\Users\stefa\source\repos\peertopeer\obj\Debug\peertopeer.pdb
